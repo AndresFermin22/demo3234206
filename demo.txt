@@ -1,3 +1,4 @@
 se valido nano demo.txt
 hola
+temu
 complicado
