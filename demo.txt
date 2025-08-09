@@ -1,6 +1,2 @@
-dse valido nano demo.txt
-hola
-temu
-hola
 hola hola
 complicado
